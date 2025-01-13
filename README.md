@@ -1,5 +1,7 @@
 # Hi there 👋
 
+![Tom's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomsazure&show_icons=true&theme=tokyonight)
+
 ## Willkommen auf meinem GitHub-Profil!  
 
 Hallo! Mein Name ist Tom Wechsler, und ich bin leidenschaftlicher IT-Experte mit über zwei Jahrzehnten Erfahrung in der Branche. Seit dem Jahr 2000 widme ich mich der Welt der Informationstechnologie und bin seit 2007 erfolgreich als selbstständiger **Cloud (Azure) Solution Architect**, **Cyber Security Analyst** und **Trainer** tätig.  
