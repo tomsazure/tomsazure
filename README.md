@@ -15,6 +15,7 @@ Hier auf GitHub finden Sie Projekte, Tools und Ressourcen, die ich entweder selb
 Vielen Dank für Ihren Besuch und viel Spaß beim Stöbern!  
 **Tom Wechsler**
 
+![](https://img.shields.io/badge/Microsoft-Azure-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Microsoft-365-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Microsoft-WindowsServer-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Linux-RedHat-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Linux-Bash-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 Here are some ideas to get you started:
 
