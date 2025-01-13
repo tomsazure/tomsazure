@@ -1,7 +1,18 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**tomsazure/tomsazure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Willkommen auf meinem GitHub-Profil!  
+
+Hallo! Mein Name ist Tom Wechsler, und ich bin leidenschaftlicher IT-Experte mit über zwei Jahrzehnten Erfahrung in der Branche. Seit dem Jahr 2000 widme ich mich der Welt der Informationstechnologie und bin seit 2007 erfolgreich als selbstständiger **Cloud (Azure) Solution Architect**, **Cyber Security Analyst** und **Trainer** tätig.  
+
+Mein Schwerpunkt liegt auf der Entwicklung und Implementierung moderner Cloud-Lösungen, der Verbesserung von IT-Sicherheitsstrategien sowie der Weitergabe von Wissen durch Schulungen und Trainings. Mit einem besonderen Fokus auf **Microsoft Azure** helfe ich Unternehmen dabei, skalierbare, sichere und zukunftssichere Architekturen aufzubauen.  
+
+Neben meiner technischen Arbeit habe ich große Freude daran, mein Wissen und meine Erfahrungen mit anderen zu teilen. Ob in Schulungen, Workshops oder Projekten – ich unterstütze Teams und Einzelpersonen dabei, komplexe IT-Herausforderungen zu meistern und ihre Ziele zu erreichen.  
+
+Hier auf GitHub finden Sie Projekte, Tools und Ressourcen, die ich entweder selbst entwickelt habe oder die Teil meiner Arbeit und meines Engagements in der IT-Community sind. Ich freue mich darauf, mich mit Gleichgesinnten zu vernetzen, Ideen auszutauschen und spannende Herausforderungen gemeinsam zu meistern.  
+
+Vielen Dank für Ihren Besuch und viel Spaß beim Stöbern!  
+**Tom Wechsler**
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +24,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
